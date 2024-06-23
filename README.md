@@ -6,9 +6,9 @@
 </div>
 
 # Contacts
-:heavy_check_mark: E-mail: **iulener@yandex.ru**
-:heavy_check_mark: VKontakte: **https://vk.com/lener_yulia**
-:heavy_check_mark: Telegram: **https://t.me/yulener**
+:heavy_check_mark: E-mail: **iulener@yandex.ru** <br>
+:heavy_check_mark: VKontakte: **https://vk.com/lener_yulia** <br>
+:heavy_check_mark: Telegram: **https://t.me/yulener** <br>
 
 <h1>
   hey there
