@@ -15,6 +15,22 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNoMnh1d3kzZGd4ZWhwYTlwMW9yZ2kzNmkzNHpiYW9obHZjZnN3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" />
+</div>
+
+---
+
+### :woman_technologist: About Me :
+I am a beginning Automation Q&A Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :briefcase: I have worked in procurement, sales and assistance. and currently study at Netology to step into a new profession.
+- :woman_student: I currently study at Netology to step into a new profession.
+- :zap: In my free time, I do yoga, solve coding tasks and read tech articles.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 
 
 
