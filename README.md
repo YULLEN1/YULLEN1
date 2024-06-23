@@ -23,7 +23,7 @@
 
 ### :woman_technologist: About Me :
 I am a beginning Automation Q&A Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :briefcase: I have worked in procurement, sales and assistance. and currently study at Netology to step into a new profession.
+- :briefcase: I have worked in procurement, sales and assistance. 
 - :woman_student: I currently study at Netology to step into a new profession.
 - :zap: In my free time, I do yoga, solve coding tasks and read tech articles.
 
