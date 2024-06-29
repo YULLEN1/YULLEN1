@@ -22,7 +22,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNoMnh1d3kzZGd4ZWhwYTlwMW9yZ2kzNmkzNHpiYW9obHZjZnN3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" />
 </div>
 
----
+___
 ### :mag_right: Мои ключевые компетенции:
 - Проведение ручного и автоматизированного тестирования.
 - Использование актуальных теорий тестирования.
