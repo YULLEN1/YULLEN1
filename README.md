@@ -12,11 +12,9 @@
 
 <h1>
   Добрый день! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 Меня зовут Юлия. Я тестировщик ПО/QA-engineer.
-
----
+<br>
 
 
 <div align="center">
