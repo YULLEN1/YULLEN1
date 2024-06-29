@@ -59,19 +59,23 @@
 **Учебный проект:  UI-тестирование веб-сервиса покупки тура "Путешествие дня:"**
 - Создала план и отчетность по итогам тестирования;
 - Разработала тестовый фреймворк для UI-тестирования;
-- Составила баг репорты на найденные баги. Все материалы размещены в публичном репозитории:
+- Составила баг репорты на найденные баги. Все материалы размещены в публичном репозитории: https://github.com/YULLEN1/CourseWork.
 
-### :woman_technologist: About Me :
-I am a beginning Automation Q&A Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :briefcase: I have worked in procurement, sales and assistance. 
-- :woman_student: I currently study at Netology to step into a new profession.
-- :zap: In my free time, I do yoga, solve coding tasks and read tech articles.
+### :page_with_curl: Сертификаты:
+- Модуль курса "Инженер по тестированию: с нуля до middle" - "Ручное тестирование веб-приложений" от Нетологии;
+- Модуль курса "Инженер по тестированию: с нуля до middle" - "Git — система контроля версий" от Нетологии;
+- Модуль курса "Инженер по тестированию: с нуля до middle" - "Java для тестировщиков" от Нетологии;
+- Модуль курса "Инженер по тестированию: с нуля до middle" - "Автоматизированное тестирование" от Нетологии.
+
+
+### :woman_technologist: О себе:
+- :briefcase: Я работала в снабжении, продажах и ассистировании. 
+- :woman_student: Сейчас я обучаюсь в Нетологии, чтобы войти в новую профессию.
+- :zap: Моя мотивация - мне нравятся исследовательские задачи, которые требуют полного погружения в проект. Я хочу найти интересные задачи, которые помогут мне развить профессиональные компетенции.
 
 ---
 
-
-
-### :fire: My Stats :
+### :fire: Моя статистика:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YULLEN1&theme=dark&background=000000)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YULLEN1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
