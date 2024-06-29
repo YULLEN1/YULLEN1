@@ -13,9 +13,9 @@
 <h1>
   Добрый день! 
 </h1>
-Меня зовут Юлия. Я тестировщик ПО/QA-engineer./
-
-
+Меня зовут Юлия. Я тестировщик ПО/QA-engineer.
+<div align="center">
+</div>
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNoMnh1d3kzZGd4ZWhwYTlwMW9yZ2kzNmkzNHpiYW9obHZjZnN3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" />
 </div>
