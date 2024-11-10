@@ -5,12 +5,6 @@
 <img src="https://komarev.com/ghpvc/?username=YULLEN1&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 
-<div id="badges">
-  <a href="https://t.me/yulener">
-    <img src="https://www.usue.ru/public/files/loaded/615e8671a815c.jpg=style=for-the-badge&logo" alt="Telegram Badge"/>
-  </a>
-</div>
-
 # Контакты:
 :heavy_check_mark: E-mail: **iulener@yandex.ru** <br>
 :heavy_check_mark: ВКонтакте: **https://vk.com/lener_yulia** <br>
@@ -20,10 +14,6 @@
   Добрый день! 
 </h1>
 Меня зовут Юлия. Я тестировщик ПО/QA-engineer.
-
-
-
-
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNoMnh1d3kzZGd4ZWhwYTlwMW9yZ2kzNmkzNHpiYW9obHZjZnN3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" />
 </div>
@@ -34,12 +24,17 @@ ___
 - Использование актуальных теорий тестирования.
 - Понимание жизненного цикла разработки программного обеспечения.
 - Программирование на Java c объектно-ориентированным подходом.
+- Программирование на JavaScript c объектно-ориентированным подходом.
 - Работа с системой контроля версий Git, платформой GitHub.
 - Разработка и выполнение тестовых сценариев и тест-кейсов.
 - Подготовка плана тестирования, отчёта о тестировании, заведение дефектов.
+- Использование инструментов автоматизации тестирования веб-интерфейсов (Jest, Playwright, Puppeeter, Cypress).
+- Ручное и автоматизированное тестирование мобильных приложений.
+- Нагрузочное тестирование.
   
 ---
 ### :hammer_and_wrench: Инструменты :
+Я умею работать с Git, GitHub, Jira, IntelliJ IDEA, Maven, Gradle, Postman, JMeter, Java, Junit, Selenium (Selenide), Docker, Node.js, CI/CD, Jest, Playwright, Puppeeter, Cypress, Android Studio, Android Debug Bridge, Charles Proxy, UIAutomator, XCTest, Appium, Espresso, Grafana, Prometheus, Node-exporter, Telegraf, IndluxDB.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -51,6 +46,20 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-line-wordmark.svg" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" title="Puppeteer" alt="Puppeteer" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/bfe407ca-fe04-45c9-ac8d-144c715f8892" title="Android Debug Bridge" alt="Android Debug Bridge" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.mds.yandex.net/i?id=df8a8aa4cfbcb9525967900104365b17ca0dba4a-5878952-images-thumbs&n=13" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>&nbsp;
+  <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/235357/images/6245918/xcuitest.png" title="XCTest" alt="XCTest" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.mds.yandex.net/i?id=60d320655d2921fbd5c84ecb4103f458909af7f4-2889503-images-thumbs&n=13" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.mds.yandex.net/i?id=a510c3f95c53b30ee3f3565707be78bc6041551cd3c7f6e7-12629451-images-thumbs&n=13" title="Espresso" alt="Espresso" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
 </div>
 
 ---
