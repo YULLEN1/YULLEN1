@@ -59,7 +59,7 @@ ___
   <img src="https://avatars.mds.yandex.net/i?id=a510c3f95c53b30ee3f3565707be78bc6041551cd3c7f6e7-12629451-images-thumbs&n=13" title="Espresso" alt="Espresso" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original-wordmark.svg" title="InfluxDB" alt="InfluxDB" width="40" height="40"/>&nbsp;
 </div>
 
 ---
