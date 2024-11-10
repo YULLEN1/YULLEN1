@@ -5,6 +5,12 @@
 <img src="https://komarev.com/ghpvc/?username=YULLEN1&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 
+<div id="badges">
+  <a href="https://t.me/yulener">
+    <img src="https://www.usue.ru/public/files/loaded/615e8671a815c.jpg=style=for-the-badge&logo" alt="Telegram Badge"/>
+  </a>
+</div>
+
 # Контакты:
 :heavy_check_mark: E-mail: **iulener@yandex.ru** <br>
 :heavy_check_mark: ВКонтакте: **https://vk.com/lener_yulia** <br>
