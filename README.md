@@ -34,7 +34,7 @@ ___
   
 ---
 ### :hammer_and_wrench: Инструменты :
-Я умею работать с Git, GitHub, Jira, IntelliJ IDEA, Maven, Gradle, Postman, JMeter, Java, Junit, Selenium (Selenide), Docker, Node.js, CI/CD, Jest, Playwright, Puppeeter, Cypress, Android Studio, Android Debug Bridge, Charles Proxy, UIAutomator, XCTest, Appium, Espresso, Grafana, Prometheus, Node-exporter, Telegraf, InfluxDB.
+Я умею работать с Git, GitHub, Jira, IntelliJ IDEA, Maven, Gradle, Postman, JMeter, Java, Junit, Selenium (Selenide), Docker, Node.js, CI/CD, Jest, Playwright, Puppeteer, Cypress, Android Studio, Android Debug Bridge, Charles Proxy, UIAutomator, XCTest, Appium, Espresso, Grafana, Prometheus, Node-exporter, Telegraf, InfluxDB.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
