@@ -31,6 +31,7 @@ ___
 - Использование инструментов автоматизации тестирования веб-интерфейсов (Jest, Playwright, Puppeteer, Cypress).
 - Ручное и автоматизированное тестирование мобильных приложений.
 - Нагрузочное тестирование.
+- Тестирование безопасности.
   
 ---
 ### :hammer_and_wrench: Инструменты :
@@ -78,14 +79,15 @@ ___
 ---
 
 ### :page_with_curl: Сертификаты курса "Инженер по тестированию: с нуля до middle" от Нетологии (программа курса по [ссылке](https://netology.ru/programs/qa)):
-- ["Ручное тестирование веб-приложений"](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/371623/caf0ceea1564d27404ee484cd2cbb029.png);
-- ["Git — система контроля версий"](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/382411/00806eda4c4340c380870e82448f7992.png);
-- ["Java для тестировщиков"](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/400245/0b5324d18cf898a8b38e9503e75862f9.png);
-- ["Автоматизированное тестирование"](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/428735/663eabec0a1fc046288c81ec3ad76aec.png);
-- ["JavaScript для тестировщиков"](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/446010/92292d5a0dafe7e8f4ac61c2aaea00e4.png);
-- ["Автоматизация тестирования веб-интерфейсов"](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/468452/390156d0fed275e80dd561a40186c75b.png);
-- ["Тестирование мобильных приложений"](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/481753/6b7979375d6d44ab99e43eb66157738a.png);
-- ["Тестирование производительности"](https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/489682/4aa4d5226d89d97a1900f0d3d7183226.png).
+- ["Ручное тестирование веб-приложений"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Manual_test.pdf);
+- ["Git — система контроля версий"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Git.pdf);
+- ["Java для тестировщиков"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Java.pdf);
+- ["Автоматизированное тестирование"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Automated_test.pdf);
+- ["JavaScript для тестировщиков"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Java_script.pdf);
+- ["Автоматизация тестирования веб-интерфейсов"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Automated_test_WEB.pdf);
+- ["Тестирование мобильных приложений"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Mobile_test.pdf);
+- ["Тестирование производительности"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Load_test.pdf);
+- ["Тестирование безопасности"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Security_test.pdf)).
 
 
 ---
