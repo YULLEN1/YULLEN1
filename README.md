@@ -102,7 +102,8 @@ ___
 - ["Автоматизация тестирования веб-интерфейсов"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Automated_test_WEB.pdf);
 - ["Тестирование мобильных приложений"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Mobile_test.pdf);
 - ["Тестирование производительности"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Load_test.pdf);
-- ["Тестирование безопасности"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Security_test.pdf)).
+- ["Тестирование безопасности"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Security_test.pdf);
+- ["Инженер по тестированию: с 0 до middle](https://github.com/YULLEN1/Certificates/blob/main/certificate_Final.pdf).
 
 
 ---
