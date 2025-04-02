@@ -1,20 +1,16 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U0cjh1Y3J4Y200MzQwY2Q4NTJ4aDZjc3luZmYyaXZwZHI0aGtqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="100"/>
 </div>
-<div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=YULLEN1&style=flat-square&color=blue" alt="" align="center"/>
-</div>
 
 <div id="badges" align="center">
   <a href="https://t.me/yulener">
-    <img src="https://static.tildacdn.com/tild3637-3036-4638-a233-633731663435/delivery.png)" alt="Telegram Badge"/>
+    <img src="https://images.icon-icons.com/2108/PNG/512/telegram_icon_130816.png" alt="Telegram Badge" width="30"/>
   </a>
 </div>
 
-# Контакты:
-:heavy_check_mark: E-mail: **iulener@yandex.ru** <br>
-:heavy_check_mark: ВКонтакте: **https://vk.com/lener_yulia** <br>
-:heavy_check_mark: Telegram: **https://t.me/yulener** <br>
+<div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=YULLEN1&style=flat-square&color=blue" alt="" align="center"/>
+</div>
 
 <h1>
   Добрый день! 
