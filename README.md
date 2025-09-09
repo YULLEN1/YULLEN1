@@ -6,10 +6,12 @@
 <img src="https://komarev.com/ghpvc/?username=YULLEN1&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 
-<h1>
+<h1 id="header" align="center">
   Привет! 
 </h1>
+<div align="center">
 Меня зовут Юлия. Я тестировщик ПО/QA-engineer.
+</div>
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNoMnh1d3kzZGd4ZWhwYTlwMW9yZ2kzNmkzNHpiYW9obHZjZnN3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" />
 </div>
