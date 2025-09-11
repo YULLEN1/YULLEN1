@@ -94,7 +94,7 @@ ___
 7. [Тестирование производительности](https://github.com/YULLEN1/Homeworks/blob/main/Load_Testing.md).
 8. [Тестирование безопасности](https://github.com/YULLEN1/Homeworks/blob/main/Security_Testing.md).
 
-[**Тестовые задания от работодателей*](https://github.com/YULLEN1/Test_tasks/blob/main/Тестовые%20задания%20от%20работодателей.md).
+[**Тестовые задания от работодателей**](https://github.com/YULLEN1/Test_tasks/blob/main/Тестовые%20задания%20от%20работодателей.md).
   
 ---
 
