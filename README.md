@@ -87,8 +87,15 @@ ___
 **Домашние задания:**
 1. [Ручное тестирование веб-приложений](https://github.com/YULLEN1/Manual_testing_tasks_description/tree/main).
 2. [Java для тестировщиков](https://github.com/YULLEN1/Homeworks/blob/main/Homeworks_Java.md).
+3. [Автоматизированное тестирование](https://github.com/YULLEN1/Homeworks/blob/main/Automatization_Java.md).
+4. [JavaScript для тестировщиков](https://github.com/YULLEN1/Homeworks/blob/main/Java_Script.md).
+5. [Автоматизация тестирования веб-интерфейсов](https://github.com/YULLEN1/Homeworks/blob/main/Automatization_Web.md).
+6. [Тестирование мобильных приложений](https://github.com/YULLEN1/Homeworks/blob/main/Testing_Mobile.md).
+7. [Тестирование производительности](https://github.com/YULLEN1/Homeworks/blob/main/Load_Testing.md).
+8. [Тестирование безопасности](https://github.com/YULLEN1/Homeworks/blob/main/Security_Testing.md).
+
+[**Тестовые задания от работодателей*](https://github.com/YULLEN1/Test_tasks/blob/main/Тестовые%20задания%20от%20работодателей.md).
   
- 
 ---
 
 ### :page_with_curl: Сертификаты курса "Инженер по тестированию: с нуля до middle" от Нетологии (программа курса по [ссылке](https://netology.ru/programs/qa)):
