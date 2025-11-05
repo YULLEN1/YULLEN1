@@ -108,7 +108,7 @@ I can work with Git, GitHub, Jira, IntelliJ IDEA, Maven, Gradle, Postman, JMeter
 - ["Mobile Application Testing"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Mobile_test.pdf);
 - ["Performance Testing"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Load_test.pdf);
 - ["Security Testing"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Security_test.pdf);
-- ["Test Engineer: from 0 to Middle"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Final.pdf).
+- ["QA Engineer: from 0 to Middle"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Final.pdf).
 
 
 ---
