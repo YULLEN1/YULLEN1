@@ -7,10 +7,10 @@
 </div>
 
 <h1 id="header" align="center">
-  Hi there! 
+  Привет! 
 </h1>
 <div align="center">
-My name is Yulia. I am a QA Engineer.
+Меня зовут Юлия. Я инженер по тестированию.
 </div>
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNoMnh1d3kzZGd4ZWhwYTlwMW9yZ2kzNmkzNHpiYW9obHZjZnN3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" />
@@ -115,11 +115,12 @@ ___
 
 
 ### :woman_technologist: About Me:
-:briefcase: Looking for a Junior Manual QA Engineer position with a focus on manual testing of web and mobile applications, with the possibility of transitioning to automated testing. 
+:briefcase: Ищу позицию Junior Manual QA Engineer с фокусом на ручное тестирование веб и мобильных приложений, с возможностью перехода в автоматизированное тестирование.
 
-:woman_student: Decided to switch from an administrative career to QA because I am attracted by the opportunity to directly influence the quality of a digital product, find and analyze non-obvious problems. 
+:woman_student: Приняла решение о переходе из административной сферы в QA, поскольку меня привлекает возможность напрямую влиять на качество цифрового продукта, находить и анализировать неочевидные проблемы.
 
-:zap: Ready for remote work, available throughout the day. Considering both full-time and part-time employment.
+:zap:Готова к удалённой работе, доступна в течение всего дня. Рассматриваю как полную, так и частичную занятость.
+
 
 ---
 
