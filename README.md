@@ -100,7 +100,7 @@ ___
 
 ### :page_with_curl: Сертификаты курса "Инженер по тестированию: с 0 до middle" от Нетологии (программа курса [здесь](https://netology.ru/programs/qa)):
 - ["Ручное тестирование веб-приложений"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Manual_test.pdf);
-- ["Git — Version Control System"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Git.pdf);
+- ["Git — система контроля версий"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Git.pdf);
 - ["Java для тестировщиков"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Java.pdf);
 - ["Автоматизированное тестирование"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Automated_test.pdf);
 - ["JavaScript для тестировщиков"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Java_script.pdf);
