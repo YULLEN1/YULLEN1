@@ -17,21 +17,21 @@ My name is Yulia. I am a QA Engineer.
 </div>
 
 ___
-### :mag_right: My Skills:
-- Conduct the full cycle of manual testing for WEB and mobile applications: from requirements analysis and writing test cases to regression and acceptance testing.
-- Develop and maintain test documentation: test plans, checklists, test cases, and detailed bug reports in Jira.
-- Program in Java (OOP) for developing automated solutions and supporting the test framework.
-- Develop automated tests in Java using the Selenide framework for concise and stable UI test writing.
-- Create stable UI automated tests in JavaScript using modern frameworks (Playwright, Cypress).
-- Set up and run automated tests in CI/CD pipelines (GitHub Actions, Jenkins) for early defect detection.
-- Test mobile applications on iOS and Android using both real devices and emulators.
-- Work with Git and GitHub: create branches, make merge requests, and manage Issues.
-- Conduct basic load testing using JMeter to evaluate the performance of key scenarios.
-- Check the security of web applications for major vulnerabilities from the OWASP Top 10.
+### :mag_right: Мои навыки:
+- Проводить полный цикл ручного тестирования WEB и мобильных приложений: от анализа требований и написания тест-кейсов до регрессионного и приемочного тестирования.
+- Разрабатывать и вести тестовую документацию: тест-планы, чек-листы, тест-кейсы и детальные отчеты об ошибках в Jira.
+- Программировать на Java (ООП) для разработки автоматизированных решений и поддержки тестового фреймворка.
+- Разрабатывать автотесты на Java с использованием фреймворка Selenide для написания лаконичных и стабильных UI-тестов.
+- Создавать стабильные UI-автотесты на JavaScript с использованием современных фреймворков (Playwright, Cypress).
+- Настраивать и запускать автоматизированные тесты в CI/CD пайплайнах (GitHub Actions, Jenkins) для раннего обнаружения дефектов.
+- Тестировать мобильные приложения на iOS и Android, используя как реальные устройства, так и эмуляторы.
+- Работать с Git и GitHub: создавать ветки, оформлять merge requests и управлять Issues.
+- Проводить базовое нагрузочное тестирование с использованием JMeter для оценки производительности ключевых сценариев.
+- Проверять безопасность веб-приложений на наличие основных уязвимостей из OWASP Top 10.
   
 ---
-### :hammer_and_wrench: Tools:
-I can work with Git, GitHub, Jira, IntelliJ IDEA, Maven, Gradle, Postman, JMeter, Java, Junit, Selenium (Selenide), Docker, Node.js, CI/CD, Jest, Playwright, Puppeteer, Cypress, Android Studio, Android Debug Bridge, Charles Proxy, UIAutomator, XCTest, Appium, Espresso, Grafana, Prometheus, Node-exporter, Telegraf, InfluxDB, Nmap, Wireshark.
+### :hammer_and_wrench: Инструменты:
+Я могу работать с Git, GitHub, Jira, IntelliJ IDEA, Maven, Gradle, Postman, JMeter, Java, Junit, Selenium (Selenide), Docker, Node.js, CI/CD, Jest, Playwright, Puppeteer, Cypress, Android Studio, Android Debug Bridge, Charles Proxy, UIAutomator, XCTest, Appium, Espresso, Grafana, Prometheus, Node-exporter, Telegraf, InfluxDB, Nmap, Wireshark.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -63,52 +63,52 @@ I can work with Git, GitHub, Jira, IntelliJ IDEA, Maven, Gradle, Postman, JMeter
 
 ---
 ### :file_folder: Completed Projects:
-**Training Project: Coursework on manual testing of the online store [Henderson](https://henderson.ru):**
-- Created a checklist for functional testing of the personal account of a registered authorized user;
-- Wrote a set of test cases to test the authorization functionality on the Henderson website;
-- Created bug reports based on a screenshot. All materials are available in the public [repository](https://github.com/YULLEN1/Manual_testing_tasks_description/blob/main/Manual%20testing.md).
+**Учебный проект: Курсовая работа по ручному тестированию интернет-магазина [Henderson](https://henderson.ru):**
+- Составила чек-лист для функционального тестирования личного кабинета зарегистрированного авторизованного пользователя.
+- Написала набор тест-кейсов для проверки функциональности авторизации на сайте Henderson.
+- Создала отчеты об ошибках на основе скриншота. Все материалы доступны в публичном [репозитории](https://github.com/YULLEN1/Manual_testing_tasks_description/blob/main/Manual%20testing.md).
 
-**Training Project: Team testing of a banking account operations application:**
-- Tested part of the project;
-- Created bug reports for found bugs;
-- Closed bug reports created by a colleague by fixing the bugs. All materials are available in the public [repository](https://github.com/YULLEN1/Team_Project_Java).
+**Учебный проект: Командное тестирование приложения для операций с банковским счетом:**
+- Протестировала часть проекта.
+- Создала отчеты об ошибках для найденных дефектов.
+- Закрыла отчеты об ошибках, созданные коллегой, путем исправления этих дефектов. Все материалы доступны в публичном [репозитории](https://github.com/YULLEN1/Team_Project_Java).
 
-**Training Project: UI testing of the web service for purchasing the "Trip of the Day" tour:**
-- Created a test plan and reporting based on the test results;
-- Developed a test environment for UI testing;
-- Created bug reports for found bugs. All materials are available in the public [repository](https://github.com/YULLEN1/CourseWork).
+**Учебный проект: UI-тестирование веб-сервиса по покупке тура «Путешествие дня»:**
+- Составила тестовый план и отчетность по результатам тестирования.
+- Разработала тестовое окружение для UI-тестирования.
+- Создала отчеты об ошибках для найденных дефектов. Все материалы доступны в публичном [репозитории](https://github.com/YULLEN1/CourseWork).
   
-**Training Project: Diploma work on automating testing of the mobile application "Mobile Hospice":**
-- Conducted manual testing of the "Mobile Hospice" mobile application;
-- Created a checklist for application testing and wrote test cases for application testing;
-- Automated the verification of test cases from the checklist;
-- Created test reports. All materials are available in the public [repository](https://github.com/YULLEN1/Diploma_Mobile_app_Hospis).
+**Учебный проект: Дипломная работа по автоматизации тестирования мобильного приложения «Мобильный хоспис»:**
+- Провела ручное тестирование мобильного приложения «Мобильный хоспис».
+- Составила чек-лист для тестирования приложения и написала тест-кейсы для тестирования приложения.
+- Автоматизировала проверку тест-кейсов из чек-листа.
+- Создала отчеты о тестировании. Все материалы доступны в публичном [репозитории](https://github.com/YULLEN1/Diploma_Mobile_app_Hospis).
 
-**Homework:**
-1. [Manual testing of web applications](https://github.com/YULLEN1/Manual_testing_tasks_description/tree/main).
-2. [Java for testers](https://github.com/YULLEN1/Homeworks/blob/main/Homeworks_Java.md).
-3. [Automated testing](https://github.com/YULLEN1/Homeworks/blob/main/Automatization_Java.md).
-4. [JavaScript for testers](https://github.com/YULLEN1/Homeworks/blob/main/Java_Script.md).
-5. [Automation of web interface testing](https://github.com/YULLEN1/Homeworks/blob/main/Automatization_Web.md).
-6. [Mobile application testing](https://github.com/YULLEN1/Homeworks/blob/main/Testing_Mobile.md).
-7. [Performance testing](https://github.com/YULLEN1/Homeworks/blob/main/Load_Testing.md).
-8. [Security testing](https://github.com/YULLEN1/Homeworks/blob/main/Security_Testing.md).
+**Домашние задания**
+1. [Ручное тестирование веб-приложений](https://github.com/YULLEN1/Manual_testing_tasks_description/tree/main).
+2. [Java для тестировщиков](https://github.com/YULLEN1/Homeworks/blob/main/Homeworks_Java.md).
+3. [Автоматизированное тестирование](https://github.com/YULLEN1/Homeworks/blob/main/Automatization_Java.md).
+4. [JavaScript для тестировщиков](https://github.com/YULLEN1/Homeworks/blob/main/Java_Script.md).
+5. [Автоматизация тестирования веб-интерфейсов](https://github.com/YULLEN1/Homeworks/blob/main/Automatization_Web.md).
+6. [Тестирование мобильных приложений](https://github.com/YULLEN1/Homeworks/blob/main/Testing_Mobile.md).
+7. [Тестирование производительности](https://github.com/YULLEN1/Homeworks/blob/main/Load_Testing.md).
+8. [Тестирование безопасности](https://github.com/YULLEN1/Homeworks/blob/main/Security_Testing.md).
 
-[**Test tasks from employers**](https://github.com/YULLEN1/Test_tasks/blob/main/Тестовые%20задания%20от%20работодателей.md).
+[**Тестовые задания от работодателей**](https://github.com/YULLEN1/Test_tasks/blob/main/Тестовые%20задания%20от%20работодателей.md).
   
 ---
 
-### :page_with_curl: Certificates from the "Test Engineer: from Junior to Middle" course at Netology (course program [here](https://netology.ru/programs/qa)):
-- ["Manual Testing of Web Applications"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Manual_test.pdf);
+### :page_with_curl: Сертификаты курса "Инженер по тестированию: с 0 до middle" от Нетологии (программа курса [здесь](https://netology.ru/programs/qa)):
+- ["Ручное тестирование веб-приложений"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Manual_test.pdf);
 - ["Git — Version Control System"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Git.pdf);
-- ["Java for Testers"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Java.pdf);
-- ["Automated Testing"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Automated_test.pdf);
-- ["JavaScript for Testers"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Java_script.pdf);
-- ["Automation of Web Interface Testing"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Automated_test_WEB.pdf);
-- ["Mobile Application Testing"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Mobile_test.pdf);
-- ["Performance Testing"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Load_test.pdf);
-- ["Security Testing"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Security_test.pdf);
-- ["QA Engineer: from 0 to Middle"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Final.pdf).
+- ["Java для тестировщиков"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Java.pdf);
+- ["Автоматизированное тестирование"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Automated_test.pdf);
+- ["JavaScript для тестировщиков"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Java_script.pdf);
+- ["Автоматизация тестирования веб-интерфейсов"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Automated_test_WEB.pdf);
+- ["Тестирование мобильных приложений"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Mobile_test.pdf);
+- ["Тестирование производительности"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Load_test.pdf);
+- ["Тестирование безопасности"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Security_test.pdf);
+- ["Инженер по тестированию: с 0 до middle"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Final.pdf).
 
 
 ---
