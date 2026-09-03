@@ -17,112 +17,182 @@
 </div>
 
 ___
-### :mag_right: Мои навыки:
-- Проводить полный цикл ручного тестирования WEB и мобильных приложений: от анализа требований и написания тест-кейсов до регрессионного и приемочного тестирования.
-- Разрабатывать и вести тестовую документацию: тест-планы, чек-листы, тест-кейсы и детальные отчеты об ошибках в Jira.
-- Программировать на Java (ООП) для разработки автоматизированных решений и поддержки тестового фреймворка.
-- Разрабатывать автотесты на Java с использованием фреймворка Selenide для написания лаконичных и стабильных UI-тестов.
-- Создавать стабильные UI-автотесты на JavaScript с использованием современных фреймворков (Playwright, Cypress).
-- Настраивать и запускать автоматизированные тесты в CI/CD пайплайнах (GitHub Actions, Jenkins) для раннего обнаружения дефектов.
-- Тестировать мобильные приложения на iOS и Android, используя как реальные устройства, так и эмуляторы.
-- Работать с Git и GitHub: создавать ветки, оформлять merge requests и управлять Issues.
-- Проводить базовое нагрузочное тестирование с использованием JMeter для оценки производительности ключевых сценариев.
-- Проверять безопасность веб-приложений на наличие основных уязвимостей из OWASP Top 10.
-  
----
-### :hammer_and_wrench: Инструменты:
-Я могу работать с Git, GitHub, Jira, IntelliJ IDEA, Maven, Gradle, Postman, JMeter, Java, Junit, Selenium (Selenide), Docker, Node.js, CI/CD, Jest, Playwright, Puppeteer, Cypress, Android Studio, Android Debug Bridge, Charles Proxy, UIAutomator, XCTest, Appium, Espresso, Grafana, Prometheus, Node-exporter, Telegraf, InfluxDB, Nmap, Wireshark.
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" title="IntelliJ Idea" alt="IntelliJ Idea" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-line-wordmark.svg" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" title="Puppeteer" alt="Puppeteer" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/bfe407ca-fe04-45c9-ac8d-144c715f8892" title="Android Debug Bridge" alt="Android Debug Bridge" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.mds.yandex.net/i?id=df8a8aa4cfbcb9525967900104365b17ca0dba4a-5878952-images-thumbs&n=13" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>&nbsp;
-  <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/235357/images/6245918/xcuitest.png" title="XCTest" alt="XCTest" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.mds.yandex.net/i?id=60d320655d2921fbd5c84ecb4103f458909af7f4-2889503-images-thumbs&n=13" title="Appium" alt="Appium" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.mds.yandex.net/i?id=a510c3f95c53b30ee3f3565707be78bc6041551cd3c7f6e7-12629451-images-thumbs&n=13" title="Espresso" alt="Espresso" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original-wordmark.svg" title="InfluxDB" alt="InfluxDB" width="40" height="40"/>&nbsp;
-  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/nmap_logo_1-what_is_nmap.PNG" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
-  <img src="https://www.ceos3c.com/wp-content/uploads/2019/07/wireshark.png" title="Wireshark" alt="Wireshark" width="40" height="40"/>&nbsp;
-</div>
+# Юлия | Junior QA Engineer
 
----
-### :file_folder: Completed Projects:
-**Учебный проект: Курсовая работа по ручному тестированию интернет-магазина [Henderson](https://henderson.ru):**
-- Составила чек-лист для функционального тестирования личного кабинета зарегистрированного авторизованного пользователя.
-- Написала набор тест-кейсов для проверки функциональности авторизации на сайте Henderson.
-- Создала отчеты об ошибках на основе скриншота. Все материалы доступны в публичном [репозитории](https://github.com/YULLEN1/Manual_testing_tasks_description/blob/main/Manual%20testing.md).
+Junior QA Engineer с 6 месяцами проектного опыта тестирования web-приложений 
+и их адаптивных версий.
 
-**Учебный проект: Командное тестирование приложения для операций с банковским счетом:**
-- Протестировала часть проекта.
-- Создала отчеты об ошибках для найденных дефектов.
-- Закрыла отчеты об ошибках, созданные коллегой, путем исправления этих дефектов. Все материалы доступны в публичном [репозитории](https://github.com/YULLEN1/Team_Project_Java).
+Основной фокус — ручное функциональное тестирование, тест-дизайн, 
+тестовая документация, REST API и локализация дефектов.
 
-**Учебный проект: UI-тестирование веб-сервиса по покупке тура «Путешествие дня»:**
-- Составила тестовый план и отчетность по результатам тестирования.
-- Разработала тестовое окружение для UI-тестирования.
-- Создала отчеты об ошибках для найденных дефектов. Все материалы доступны в публичном [репозитории](https://github.com/YULLEN1/CourseWork).
-  
-**Учебный проект: Дипломная работа по автоматизации тестирования мобильного приложения «Мобильный хоспис»:**
-- Провела ручное тестирование мобильного приложения «Мобильный хоспис».
-- Составила чек-лист для тестирования приложения и написала тест-кейсы для тестирования приложения.
-- Автоматизировала проверку тест-кейсов из чек-листа.
-- Создала отчеты о тестировании. Все материалы доступны в публичном [репозитории](https://github.com/YULLEN1/Diploma_Mobile_app_Hospis).
-
-**Домашние задания**
-1. [Ручное тестирование веб-приложений](https://github.com/YULLEN1/Manual_testing_tasks_description/tree/main).
-2. [Java для тестировщиков](https://github.com/YULLEN1/Homeworks/blob/main/Homeworks_Java.md).
-3. [Автоматизированное тестирование](https://github.com/YULLEN1/Homeworks/blob/main/Automatization_Java.md).
-4. [JavaScript для тестировщиков](https://github.com/YULLEN1/Homeworks/blob/main/Java_Script.md).
-5. [Автоматизация тестирования веб-интерфейсов](https://github.com/YULLEN1/Homeworks/blob/main/Automatization_Web.md).
-6. [Тестирование мобильных приложений](https://github.com/YULLEN1/Homeworks/blob/main/Testing_Mobile.md).
-7. [Тестирование производительности](https://github.com/YULLEN1/Homeworks/blob/main/Load_Testing.md).
-8. [Тестирование безопасности](https://github.com/YULLEN1/Homeworks/blob/main/Security_Testing.md).
-
-[**Тестовые задания от работодателей**](https://github.com/YULLEN1/Test_tasks/blob/main/Тестовые%20задания%20от%20работодателей.md).
-  
----
-
-### :page_with_curl: Сертификаты курса "Инженер по тестированию: с 0 до middle" от Нетологии (программа курса [здесь](https://netology.ru/programs/qa)):
-- ["Ручное тестирование веб-приложений"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Manual_test.pdf);
-- ["Git — система контроля версий"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Git.pdf);
-- ["Java для тестировщиков"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Java.pdf);
-- ["Автоматизированное тестирование"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Automated_test.pdf);
-- ["JavaScript для тестировщиков"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Java_script.pdf);
-- ["Автоматизация тестирования веб-интерфейсов"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Automated_test_WEB.pdf);
-- ["Тестирование мобильных приложений"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Mobile_test.pdf);
-- ["Тестирование производительности"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Load_test.pdf);
-- ["Тестирование безопасности"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Security_test.pdf);
-- ["Инженер по тестированию: с 0 до middle"](https://github.com/YULLEN1/Certificates/blob/main/certificate_Final.pdf).
-
+Работаю с DevTools, Postman, Figma и SQL. 
+Развиваю автоматизацию тестирования на JavaScript + Playwright.
 
 ---
 
+## 🧪 Проектный опыт
 
-### :woman_technologist: Обо мне:
-:briefcase: Ищу позицию Junior Manual QA Engineer с фокусом на ручное тестирование веб и мобильных приложений, с возможностью перехода в автоматизированное тестирование.
+### 🔨 Объявления & Аукционы
 
-:woman_student: Приняла решение о переходе из административной сферы в QA, поскольку меня привлекает возможность напрямую влиять на качество цифрового продукта, находить и анализировать неочевидные проблемы.
+Web-приложение для размещения объявлений и проведения аукционов.
 
-:zap:Готова к удалённой работе, доступна в течение всего дня. Рассматриваю как полную, так и частичную занятость.
+**Что делаю:**
 
+- провожу функциональное и Smoke-тестирование по готовому чек-листу;
+- проверяю реализацию интерфейса по дизайн-макетам в Figma;
+- тестирую desktop- и адаптивную версии web-приложения;
+- тестирую frontend и backend;
+- проверяю REST API с помощью Postman;
+- выявляю и локализую дефекты;
+- оформляю баг-репорты и провожу Retest после исправлений;
+- выявляю UI/UX-проблемы;
+- взаимодействую с дизайнером по вопросам UX;
+- предлагаю варианты улучшения пользовательских сценариев
+  и удобства интерфейса.
 
 ---
+### 💬 А-Чат
+
+Приложение для онлайн-коммуникации: личные чаты и сообщения, группы и каналы, 
+контакты, профиль пользователя, обмен файлами и медиа, голосовые и видеозвонки.
+
+**Что делала:**
+
+- декомпозировала функциональность приложения и разработала mind map тестирования;
+- на основе декомпозиции сформировала и поддерживала чек-лист из 600+ проверок;
+- проводила функциональное тестирование основных модулей приложения:
+  контакты, личные чаты и сообщения, группы и каналы, профиль, файлы/медиа,
+  голосовые и видеозвонки;
+- применяла техники тест-дизайна:
+  классы эквивалентности, анализ граничных значений, переходы состояний;
+- проектировала позитивные и негативные проверки;
+- учитывала роли пользователей и ограничения прав доступа;
+- выделяла Core Use Cases и формировала наборы проверок для Smoke и Regression;
+- проводила Smoke, Regression и Retest исправленных дефектов;
+- тестировала web- и адаптивную версии приложения;
+- локализовывала дефекты и оформляла баг-репорты;
+- анализировала клиент-серверное взаимодействие с помощью Chrome DevTools;
+- работала с REST API и JSON;
+- взаимодействовала с разработчиками и дизайнерами при разборе дефектов
+  и проверке исправлений.
+
+---
+
+## 🛠 Ключевые навыки
+
+### Тест-анализ и тест-дизайн
+
+- анализ и декомпозиция функциональности;
+- классы эквивалентности;
+- анализ граничных значений;
+- переходы состояний;
+- позитивное и негативное тестирование;
+- приоритизация проверок.
+
+### Ручное тестирование
+
+- функциональное тестирование;
+- Smoke Testing;
+- Regression Testing;
+- Retest;
+- Web Testing;
+- тестирование адаптивной верстки;
+- кроссбраузерное тестирование;
+- UI/UX Testing.
+
+### Тестовая документация
+
+- Checklists;
+- Test Cases;
+- Bug Reports;
+- Mind Maps;
+- Core Use Cases;
+- Smoke / Regression Packs.
+
+### API и Client-Server
+
+- REST API;
+- HTTP;
+- JSON;
+- Postman;
+- Swagger;
+- Chrome DevTools: Network, Console;
+- понимание клиент-серверного взаимодействия.
+
+### Базы данных
+
+- SQL;
+- DBeaver.
+
+### Инструменты
+
+- Chrome DevTools;
+- Postman;
+- Swagger;
+- Figma;
+- Git / GitHub.
+
+---
+
+## 🤖 Автоматизация
+
+Развиваю навыки автоматизированного тестирования:
+
+- JavaScript;
+- Playwright;
+- UI-автотесты;
+- Locators;
+- Assertions;
+- Page Object;
+- работа с Git.
+
+Автоматизация — направление моего дальнейшего профессионального развития.
+Основной практический опыт сейчас сосредоточен на Manual QA, Web и API.
+
+---
+
+## 💼 Переносимый опыт
+
+До перехода в QA работала с технической документацией, требованиями и организацией рабочих процессов.
+
+Этот опыт помогает мне в тестировании:
+
+- анализировать и структурировать требования;
+- работать с большим объемом информации;
+- находить несоответствия;
+- систематизировать проверки;
+- создавать понятную документацию;
+- внимательно работать с деталями;
+- взаимодействовать с участниками команды.
+
+В предыдущей профессиональной деятельности анализировала 200+ технических заданий, разрабатывала регламенты и чек-листы и координировала рабочие процессы.
+
+---
+
+## 🎯 Сейчас развиваю
+
+- углубленное тестирование REST API;
+- SQL;
+- JavaScript;
+- Playwright;
+- автоматизацию Web UI;
+- технический английский.
+
+---
+
+## 📚 Образование
+
+**Нетология — Инженер по тестированию**
+
+Дополнительно продолжаю изучать ручное тестирование, API, SQL и автоматизацию на JavaScript.
+
+---
+
+## 📫 Контакты
+
+- Email: iulener@yandex.ru
+- Telegram: @yulener
+- Резюме: [ссылка на резюме](https://zheleznogorsk-krasnoyarsk.hh.ru/resume/677f5221ff0f63aeff0039ed1f30716d424957?hhtmFrom=applicant_profile)
 
 ### :fire: Моя статистика:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YULLEN1&theme=dark&background=000000)](https://git.io/streak-stats) <br>
