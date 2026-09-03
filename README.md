@@ -195,7 +195,6 @@ Web-приложение для размещения объявлений и п�
 - Резюме: [ссылка на резюме](https://zheleznogorsk-krasnoyarsk.hh.ru/resume/677f5221ff0f63aeff0039ed1f30716d424957?hhtmFrom=applicant_profile)
 
 ### :fire: Моя статистика:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YULLEN1&theme=dark&background=000000)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YULLEN1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YULLEN1&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
